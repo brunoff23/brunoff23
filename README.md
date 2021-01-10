@@ -6,7 +6,7 @@ Eu estudo Análise e Desenvolvimento de Sistemas na Unicesumar.
 - 🤝🏻 Precisando de ajuda e eu puder, não pensarei duas vezes em ajudar.
 - 👶🏻 Comecei na programação a pouco tempo, então ainda sou newbie.
 - ⚡ Mas aprendo rápido e não há o que eu não possa aprender.
-- 💻 Conhecimento em: HTML, CSS, JavaScript, Bootstrap, PHP, Node, Npm, Vue.js, Laravel, Github, Scrum Agile.
+- 💻 Conhecimento em: HTML, CSS, JavaScript, Bootstrap 4, PHP 7, Node, Npm, Vue.js, Laravel, Github, Scrum Agile.
 
 Aproveite de dê uma conferida no meu Linkedin
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoff23/)](https://www.linkedin.com/in/brunoff23/) 
